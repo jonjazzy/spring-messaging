@@ -12,7 +12,7 @@ import org.springframework.data.redis.listener.RedisMessageListenerContainer;
 import org.springframework.data.redis.listener.adapter.MessageListenerAdapter;
 import org.springframework.scheduling.annotation.EnableScheduling;
 
-@SpringBootApplication
+//@SpringBootApplication
 @EnableScheduling
 public class ReceiverApplication
 {
